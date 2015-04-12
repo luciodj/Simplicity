@@ -16,8 +16,9 @@ Hacking a MCHP LPC PICDEM® board (DM164130-9).
 
 
 ## Related Projects/Demos
+1. [8x8 LED Matrix Click] (https://github.com/luciodj/LED8x8-Click) 
 
-None yet. Check back later ...    
+Check back later for more ...    
      
 
     
