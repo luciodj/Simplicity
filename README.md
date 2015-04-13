@@ -1,6 +1,6 @@
 # Simplicity
 
-Hacking a MCHP LPC PICDEM® board (DM164130-9).
+Hacking a MCHP LPC PICDEM® board (DM164130-9) and other projects using the MPLAB® Code Configurator (MCC) and Core Independent Peripherals.
 
 * Device: PIC16F1509
 * Board: PICDEM Low Pin Count 
@@ -17,6 +17,7 @@ Hacking a MCHP LPC PICDEM® board (DM164130-9).
 
 ## Related Projects/Demos
 1. [8x8 LED Matrix Click](https://github.com/luciodj/LED8x8-Click) 
+2. [Heartbeat CIP](https://github.com/luciodj/Heartbeat)
 
 Check back later for more ...    
      
