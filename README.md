@@ -19,6 +19,7 @@ Hacking a MCHP LPC PICDEM® board (DM164130-9) and other projects using the MPLA
 1. [8x8 LED Matrix Click](https://github.com/luciodj/LED8x8-Click) 
 2. [Heartbeat CIP](https://github.com/luciodj/Heartbeat)
 3. [Blaster CIP](https://github.com/luciodj/Blaster)
+4. [WAVPlayer 8-bit DAC](https://github.com/luciodj/WAVPlayer) 
 
 Check back later for more ...    
      
