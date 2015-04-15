@@ -20,9 +20,10 @@ Hacking a MCHP LPC PICDEM® board (DM164130-9) and other projects using the MPLA
 2. [Heartbeat CIP](https://github.com/luciodj/Heartbeat)
 3. [Blaster CIP](https://github.com/luciodj/Blaster)
 4. [WAVPlayer 8-bit DAC](https://github.com/luciodj/WAVPlayer) 
+5. [Simple Servo](https://github.com/luciodj/SimpleServo)
+6. [Hello Bluetooth](https://github.com/luciodj/HelloBlue)
 
 Check back later for more ...    
      
 
     
-
