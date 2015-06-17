@@ -23,6 +23,7 @@ Hacking a MCHP LPC PICDEM® board (DM164130-9) and other projects using the MPLA
 5. [Simple Servo](https://github.com/luciodj/SimpleServo)
 6. [Hello Bluetooth](https://github.com/luciodj/HelloBlue)
 7. [Metronome](https://github.com/luciodj/Metronome)
+8. [OLED](https://github.com/luciodj/OLED-Click)
 8. [Ping)))](https://github.com/luciodj/Ping)
 
 
