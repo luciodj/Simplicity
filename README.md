@@ -22,9 +22,10 @@ Hacking a MCHP LPC PICDEM® board (DM164130-9) and other projects using the MPLA
 4. [WAVPlayer 8-bit DAC](https://github.com/luciodj/WAVPlayer) 
 5. [Simple Servo](https://github.com/luciodj/SimpleServo)
 6. [Hello Bluetooth](https://github.com/luciodj/HelloBlue)
-7. [Metronome](https://github.com/luciodj/Metronome)
-8. [OLED](https://github.com/luciodj/OLED-Click)
-8. [Ping)))](https://github.com/luciodj/Ping)
+7. [Blue Boot](https://github.com/luciodj/BlueBoot)
+8. [Metronome](https://github.com/luciodj/Metronome)
+9. [OLED](https://github.com/luciodj/OLED-Click)
+10. [Ping)))](https://github.com/luciodj/Ping)
 
 
 Check back later for more ...    
